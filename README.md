@@ -1,9 +1,9 @@
-# 110-tlacitko
+# Ivládání tlačítka
 
 ## Účel/Zadání/Funkce
 
-* parní mlátička s elektronickým vstřikováním
-    * pára
+* tlačítko reaguje na hranu
+    * když talčítko pustím 
     * píst
     * mikroprocesor
 
