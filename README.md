@@ -15,6 +15,7 @@ pouzivam stm
 
 1. ono se to
 2. samo se to
+3. jeste se to
 
 ## ToDo
 
