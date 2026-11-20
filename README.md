@@ -3,13 +3,12 @@
 ## Účel/Zadání/Funkce
 
 * tlačítko reaguje na hranu
-    * když talčítko pustím 
-    * píst
-    * mikroprocesor
+* když talčítko pustím, led se prepne
+
 
 
 ## Schéma zapojení
-
+pouzivam stm
 ![schéma zapojení](./docs/schema.png)
 
 ## Popis funkce
